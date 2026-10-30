@@ -14,8 +14,10 @@
 
 ---
 
+
 ## 👨‍💻 About Me
 
+- 🔭 Explore my [Portfolio](https://naveen-tech.netlify.app/) to see my work and projects.
 - 💻 Software Developer passionate about building reliable and scalable applications.
 - 🐍 Primarily focused on Python backend development and REST APIs.
 - 🗄️ Interested in database management, data engineering and ETL pipelines.
