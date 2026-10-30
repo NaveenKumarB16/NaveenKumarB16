@@ -87,11 +87,11 @@ A pharmacy management application designed to handle billing, inventory manageme
 
 ## 🎓 Education
 
-**Bachelor of Engineering – Computer Science Engineering**
+**Bachelor of Engineering - Computer Science Engineering**
 
 Sri Krishna Institute of Technology
 
-2019 – 2023 | Bangalore
+2019 - 2023 | Bangalore
 
 ---
 
