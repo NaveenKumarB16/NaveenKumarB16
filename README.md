@@ -26,16 +26,20 @@
 
 ---
 
+
 ## 🛠️ Tech Stack
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
 ### Backend Development
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,flask" />
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
 </p>
 
 ### Databases
@@ -46,17 +50,19 @@
 ### Cloud & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elastic_Beanstalk-FF9900?style=for-the-badge&logo=awselasticbeanstalk&logoColor=white" />
 </p>
 
-### Tools & Technologies
+### Tools & AI
 <p>
   <img src="https://skillicons.dev/icons?i=postman,vscode" />
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
 </p>
+
+---
+
 
 ---
 
@@ -110,20 +116,6 @@ Sri Krishna Institute of Technology
   <a href="https://leetcode.com/u/Naveen_Kumar_B/">
     <img src="https://leetcard.jacoblin.cool/Naveen_Kumar_B?theme=dark&font=Ubuntu&ext=heatmap" alt="Naveen's LeetCode Stats" />
   </a>
-</p>
-
----
-
-## 🧩 LeetCode
-
-<p align="center">
-  <a href="https://leetcode.com/u/Naveen_Kumar_B/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
-
-<p align="center">
-  Practicing Data Structures and Algorithms and continuously improving problem-solving skills.
 </p>
 
 ---
